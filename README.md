@@ -48,7 +48,7 @@ The following are the files available in this repository:
 
 * `plotly-latest.min.js` - js Plotly file on js folder.
 
-* `plot1.js`, `plot2.js`, `plot3.js`, `plot4.js` - js Plotly files on js folder with visualizations.
+* `plot1.js`, `plot2.js`, `plot3.js`, `plot4.js`, `plot5.js` and `plot6.js` - js Plotly files on js folder with visualizations.
 
 
 ## Results<a name="results"></a>
